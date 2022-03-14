@@ -9,3 +9,4 @@ while cont <= 10:
     print(n * multiplicando)
     multiplicando = multiplicando + 1
     cont = cont + 1
+
